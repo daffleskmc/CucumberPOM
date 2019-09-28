@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="14.84815">
+<testcase classname="Cucumber POM Feature" name="Tutorials Ninja Page" time="14.84815">
+<system-out><![CDATA[Given user opens tutorials ninja page.......................................passed
+Then user is in login page..................................................passed
+Then user logs in...........................................................passed
+Then user validates home page title.........................................passed
+]]></system-out>
+</testcase>
+</testsuite>

@@ -1,0 +1,70 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Tutorials Ninja Page",
+        "description": "",
+        "id": "cucumber-pom-feature;tutorials-ninja-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 13676758400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user opens tutorials ninja page",
+            "match": {
+              "location": "CPLoginSteps.user_opens_tutorials_ninja_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 66451600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user is in login page",
+            "match": {
+              "location": "CPLoginSteps.user_is_in_login_page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1095326200,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user logs in",
+            "match": {
+              "location": "CPLoginSteps.user_enters_email_and_password()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 9614200,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user validates home page title",
+            "match": {
+              "location": "CPLoginSteps.user_validates_home_page_title()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Cucumber POM Feature",
+    "description": "",
+    "id": "cucumber-pom-feature",
+    "keyword": "Feature",
+    "uri": "C:/Users/indeztruk/eclipse-workspace/CucumberPOM/src/main/java/com/cucumber/pom/feature/cp.feature"
+  }
+]
